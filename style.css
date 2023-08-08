@@ -1,0 +1,34 @@
+body{
+    background-color: green;
+}
+.card{
+    width: 300px;
+    background-color: white;
+    margin: 20px;
+    transition: 0.4s;
+    border-radius: 10px;
+    border-radius: 10px;
+
+
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+
+}
+.text{
+    padding: 20px;
+}
+h2{
+   font-size:26px; 
+   color: red;
+}
+p{
+color: blue;    
+}
+a{
+    background-color: greenyellow;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+}
